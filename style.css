@@ -1,88 +1,99 @@
-                                .nav {
-                                    width: 100%;
-                                    height: 150px;
-                                    /*display: grid;*/
-                                    box-shadow: 0px 0.1px 10px black;
-                                    /*background-image: url(https://i.postimg.cc/gkL98RDP/abstract-background-website-landing-page.png);
+                                    .nav {
+                                        width: 100%;
+                                        height: 100px;
+                                        /*display: grid;*/
+                                        box-shadow: 0px 0.1px 10px black;
+                                        /*background-image: url(https://i.postimg.cc/gkL98RDP/abstract-background-website-landing-page.png);
             background-repeat: no-repeat;
             background-size: unset;*/
-                                    background-color: #24252a;
-                                    position: fixed;
-                                    top: 0px;
-                                }
-                                
-                                .logo_header {
-                                    height: 80%;
-                                    width: auto;
-                                    float: left;
-                                    padding-left: 5px;
-                                    padding-top: 6px;
-                                }
-                                
-                                body {
-                                    background-color: #202424;
-                                    width: 100%;
-                                    height: 800px;
-                                    margin: 0;
-                                    padding: 0;
-                                    /*padding-bottom: 150px;*/
-                                    padding-top: 55px;
-                                    font-size: 10px;
-                                    font-family: "Roboto";
-                                    color: rgb(212, 222, 231);
-                                }
-                                
-                                .container {
-                                    margin-left: 10px;
-                                    margin-right: 10px;
-                                }
-                                
-                                footer {
-                                    width: 100%;
-                                    height: 200px;
-                                    /*background-color: #24252a;*/
-                                    background-color: #000000;
-                                    /*background-color: #d20496;*/
-                                    /*ackground-image: url(https://i.postimg.cc/gkL98RDP/abstract-background-website-landing-page.png);*/
-                                    /*background-repeat: no-repeat;
+                                        background-color: #24252a;
+                                        position: fixed;
+                                        top: 0px;
+                                    }
+                                    
+                                    .logo_header {
+                                        height: 80%;
+                                        width: auto;
+                                        float: left;
+                                        padding-left: 5px;
+                                        padding-top: 6px;
+                                    }
+                                    
+                                    body {
+                                        background-color: #202424;
+                                        width: 100%;
+                                        height: 800px;
+                                        margin: 0;
+                                        padding: 0;
+                                        /*padding-bottom: 150px;*/
+                                        padding-top: 55px;
+                                        font-size: 10px;
+                                        font-family: "Roboto";
+                                        color: rgb(212, 222, 231);
+                                    }
+                                    
+                                    .container {
+                                        margin-left: 10px;
+                                        margin-right: 10px;
+                                    }
+                                    
+                                    footer {
+                                        width: 100%;
+                                        height: 200px;
+                                        /*background-color: #24252a;*/
+                                        background-color: #000000;
+                                        /*background-color: #d20496;*/
+                                        /*ackground-image: url(https://i.postimg.cc/gkL98RDP/abstract-background-website-landing-page.png);*/
+                                        /*background-repeat: no-repeat;
                         background-size: unset;*/
-                                    bottom: 0px;
-                                    display: inline-flex;
-                                    box-shadow: 70px 70px 1px 5px black;
-                                }
-                                
-                                .footer_ul {
-                                    font-family: "Roboto";
-                                    list-style: none;
-                                    padding-top: 15px;
-                                    float: right;
-                                    margin-left: auto;
-                                    margin-right: 40px;
-                                }
-                                
-                                .footer_li {
-                                    font-family: "Roboto";
-                                    font-size: 15px;
-                                    color: #373b44;
-                                    list-style: none;
-                                    bottom: 10%;
-                                    padding-bottom: 4px;
-                                }
-                                
-                                a {
-                                    text-decoration: none;
-                                    /*color: #202424;*/
-                                    color: #d20496;
-                                }
-                                
-                                .logo_footer {
-                                    height: 45%;
-                                    width: auto;
-                                    display: flex;
-                                    padding-top: 20px;
-                                    /*padding-left: 18px;*/
-                                }
-                                /*.c {
+                                        bottom: 0px;
+                                        display: inline-flex;
+                                        box-shadow: 70px 70px 1px 5px black;
+                                    }
+                                    
+                                    .footer_ul {
+                                        font-family: "Roboto";
+                                        list-style: none;
+                                        padding-top: 60px;
+                                        padding-top: 60px;
+                                        padding-left: 15%;
+                                        bottom: 0px;
+                                        height: max-content
+                                    }
+                                    
+                                    .footer_li {
+                                        font-family: "Roboto";
+                                        font-size: 15px;
+                                        color: #373b44;
+                                        list-style: none;
+                                        bottom: 10%;
+                                        padding-bottom: 4px;
+                                    }
+                                    
+                                    a {
+                                        text-decoration-color: #d20496;
+                                        /*color: #202424;*/
+                                        color: #636363;
+                                    }
+                                    
+                                    .marca {
+                                        text-decoration: none;
+                                        /*color: #202424;*/
+                                        color: #323132;
+                                        margin-top: 150px;
+                                        border-right: 100px;
+                                        align-self: center;
+                                        height: max-content
+                                    }
+                                    
+                                    .logo_footer {
+                                        height: 45%;
+                                        width: auto;
+                                        display: flex;
+                                        padding-top: 60px;
+                                        padding-left: 25%;
+                                    }
+                                    /*.c {
             text-decoration: none;
             color: #61049b;
         }*/
